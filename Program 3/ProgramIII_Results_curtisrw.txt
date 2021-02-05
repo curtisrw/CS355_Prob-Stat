@@ -1,0 +1,14 @@
+Simulate traffic flow with 1000 cars:
+Average transit time: 31.704
+Standard deviation: 3.509 
+
+Simulate 10 runs of 1000 cars:
+Average transit time: 31.548
+Standard deviation: 0.159 
+
+Simulate traffic flow with 10,000 cars:
+Average transit time: 31.641
+Standard deviation: 3.578 
+------------------------------------------------------------------------------
+
+
